@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_1">popular movies</string>
+    <string name="app_2">stock hawk</string>
+    <string name="app_3">build it bigger</string>
+    <string name="app_4">make your app material</string>
+    <string name="app_5">go ubiquitous</string>
+    <string name="app_6">capstone</string>
+</resources>
