@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         int id = view.getId();
         Button button = (Button) findViewById(id);
 
+        //Button button = (Button) view;
         Context context = getApplicationContext();
         CharSequence text = button.getText();
         int duration = Toast.LENGTH_SHORT;
